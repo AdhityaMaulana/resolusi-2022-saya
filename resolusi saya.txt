@@ -1,0 +1,7 @@
+Resolusi 2022 :
+- Mempelajari dan menguasai HTML
+- Mempelajari dan menguasai CSS
+- Membuat tampilan Website sederhana dengan HTML+CSS
+
+Tambahan jika mampu : 
+-Mempelajari dan menguasai JavaScript
